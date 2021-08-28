@@ -5,3 +5,9 @@ This application is designed to mimic a Social Networking site, similar to Faceb
 Now head into Insomnia Core and begin making the "GET, POST, PUT, and DELETE" calls to the API.
 
 Watch the tutorial video to see how and have fun!
+
+Video Tutorial Part 1: https://drive.google.com/file/d/1_Ax6fvulr2yfEJLDsJMlIw3GXReAWVeH/view (Links to an external site.)
+
+Video Tutorial Part 2: https://drive.google.com/file/d/1oHkZTFFZsIRuLY2MJftDLqvWaKBBO_Sp/view (Links to an external site.)
+
+Video Tutorial Part 3: https://drive.google.com/file/d/1JQO-IGscwCEwvtnHJg2ZHSdwGxP0gGcg/view
